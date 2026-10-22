@@ -1,5 +1,7 @@
 # AWS Self-Healing Infrastructure with EC2 Auto Scaling and Elastic Load Balancing
 
+
+
 ## Project Overview
 
 Built an AWS infrastructure designed to automatically replace unhealthy EC2 instances using an Auto Scaling Group integrated with an Elastic Load Balancer and target group health checks.
